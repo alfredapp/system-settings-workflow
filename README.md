@@ -2,7 +2,7 @@
 
 Open macOS System Settings Panes
 
-<a href='https://github.com/alfredapp/system-settings-workflow/releases/latest/download/System.Settings.alfredworkflow'>⤓ Download Workflow</a>
+<a href='https://alfred.app/workflows/alfredapp/system-settings'>⤓ Install on the Alfred Gallery</a>
 
 ## Usage
 
