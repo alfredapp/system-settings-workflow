@@ -670,7 +670,18 @@
 			</dict>
 		</array>
 		<key>8DF0DD15-2F02-4FAA-A0EF-B435B4E86A6C</key>
-		<array/>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>AEC2AE32-D631-4F83-BBAF-181455F82A18</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
 		<key>8F65BD1A-3B71-4CC9-8B1C-C6C1FEAEF615</key>
 		<array>
 			<dict>
@@ -1282,6 +1293,38 @@
 			<string>35325F14-3A02-48C2-8193-76B67651119B</string>
 			<key>version</key>
 			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string># Disable Preference Panes from Essentials in Default Results
+readonly prefs="${alfred_preferences}/preferences/features/defaultresults/prefs.plist"
+
+# If Preference Panes are already ignored, exit
+if /usr/libexec/PlistBuddy -c 'Print :showPreferences' "${prefs}"; then
+  exit 0
+fi
+
+# Add key (and create file) if it does not exist
+/usr/libexec/PlistBuddy -c 'Add :showPreferences bool false' "${prefs}"</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>5</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>AEC2AE32-D631-4F83-BBAF-181455F82A18</string>
+			<key>version</key>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -3545,6 +3588,15 @@ Open System Settings panes via the workflow’s keywords: `about`, `accessibilit
 			<real>245</real>
 			<key>ypos</key>
 			<real>1985</real>
+		</dict>
+		<key>AEC2AE32-D631-4F83-BBAF-181455F82A18</key>
+		<dict>
+			<key>note</key>
+			<string>Remove Preference Panes from Default Results</string>
+			<key>xpos</key>
+			<real>645</real>
+			<key>ypos</key>
+			<real>35</real>
 		</dict>
 		<key>B1C763E7-32E4-433E-A74B-BC467CD42473</key>
 		<dict>
