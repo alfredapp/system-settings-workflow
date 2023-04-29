@@ -2,7 +2,7 @@
 
 Open macOS System Settings Panes
 
-<a href='https://alfred.app/workflows/alfredapp/system-settings'>⤓ Install on the Alfred Gallery</a>
+[⤓ Install on the Alfred Gallery](https://alfred.app/workflows/alfredapp/system-settings)
 
 ## Usage
 
