@@ -1306,11 +1306,13 @@
 readonly prefs="${alfred_preferences}/preferences/features/defaultresults/prefs.plist"
 
 # If Preference Panes are already ignored, exit
-if /usr/libexec/PlistBuddy -c 'Print :showPreferences' "${prefs}"; then
+if /usr/libexec/PlistBuddy -c 'Print :showPreferences' "${prefs}"
+then
   exit 0
 fi
 
 # Add key (and create file) if it does not exist
+/bin/mkdir -p "$(/usr/bin/dirname "${prefs}")"
 /usr/libexec/PlistBuddy -c 'Add :showPreferences bool false' "${prefs}"</string>
 				<key>scriptargtype</key>
 				<integer>1</integer>
