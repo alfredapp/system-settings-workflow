@@ -1280,6 +1280,8 @@
 				<integer>2</integer>
 				<key>keyword</key>
 				<string>about</string>
+				<key>skipuniversalaction</key>
+				<true/>
 				<key>subtext</key>
 				<string>System Settings → General → About</string>
 				<key>text</key>
@@ -1352,6 +1354,8 @@ fi
 				<integer>2</integer>
 				<key>keyword</key>
 				<string>accessibility</string>
+				<key>skipuniversalaction</key>
+				<true/>
 				<key>subtext</key>
 				<string>System Settings → Accessibility</string>
 				<key>text</key>
@@ -1390,6 +1394,8 @@ fi
 				<integer>2</integer>
 				<key>keyword</key>
 				<string>airdrop||handoff</string>
+				<key>skipuniversalaction</key>
+				<true/>
 				<key>subtext</key>
 				<string>System Settings → General → AirDrop &amp; Handoff</string>
 				<key>text</key>
@@ -1428,6 +1434,8 @@ fi
 				<integer>2</integer>
 				<key>keyword</key>
 				<string>appearance</string>
+				<key>skipuniversalaction</key>
+				<true/>
 				<key>subtext</key>
 				<string>System Settings → Appearance</string>
 				<key>text</key>
@@ -1466,6 +1474,8 @@ fi
 				<integer>2</integer>
 				<key>keyword</key>
 				<string>appleid</string>
+				<key>skipuniversalaction</key>
+				<true/>
 				<key>subtext</key>
 				<string>System Settings → Apple ID</string>
 				<key>text</key>
@@ -1504,6 +1514,8 @@ fi
 				<integer>2</integer>
 				<key>keyword</key>
 				<string>battery</string>
+				<key>skipuniversalaction</key>
+				<true/>
 				<key>subtext</key>
 				<string>System Settings → Battery</string>
 				<key>text</key>
@@ -1542,6 +1554,8 @@ fi
 				<integer>2</integer>
 				<key>keyword</key>
 				<string>bluetooth</string>
+				<key>skipuniversalaction</key>
+				<true/>
 				<key>subtext</key>
 				<string>System Settings → Bluetooth</string>
 				<key>text</key>
@@ -1580,6 +1594,8 @@ fi
 				<integer>2</integer>
 				<key>keyword</key>
 				<string>control centre</string>
+				<key>skipuniversalaction</key>
+				<true/>
 				<key>subtext</key>
 				<string>System Settings → Control Centre</string>
 				<key>text</key>
@@ -1618,6 +1634,8 @@ fi
 				<integer>2</integer>
 				<key>keyword</key>
 				<string>date||time</string>
+				<key>skipuniversalaction</key>
+				<true/>
 				<key>subtext</key>
 				<string>System Settings → General → Date &amp; Time</string>
 				<key>text</key>
@@ -1656,6 +1674,8 @@ fi
 				<integer>2</integer>
 				<key>keyword</key>
 				<string>desktop||dock</string>
+				<key>skipuniversalaction</key>
+				<true/>
 				<key>subtext</key>
 				<string>System Settings → Desktop &amp; Dock</string>
 				<key>text</key>
@@ -1694,6 +1714,8 @@ fi
 				<integer>2</integer>
 				<key>keyword</key>
 				<string>displays</string>
+				<key>skipuniversalaction</key>
+				<true/>
 				<key>subtext</key>
 				<string>System Settings → Displays</string>
 				<key>text</key>
@@ -1732,6 +1754,8 @@ fi
 				<integer>2</integer>
 				<key>keyword</key>
 				<string>extensions</string>
+				<key>skipuniversalaction</key>
+				<true/>
 				<key>subtext</key>
 				<string>System Settings → Privacy &amp; Security → Extensions</string>
 				<key>text</key>
@@ -1770,6 +1794,8 @@ fi
 				<integer>2</integer>
 				<key>keyword</key>
 				<string>family</string>
+				<key>skipuniversalaction</key>
+				<true/>
 				<key>subtext</key>
 				<string>System Settings → Family</string>
 				<key>text</key>
@@ -1808,6 +1834,8 @@ fi
 				<integer>2</integer>
 				<key>keyword</key>
 				<string>focus</string>
+				<key>skipuniversalaction</key>
+				<true/>
 				<key>subtext</key>
 				<string>System Settings → Focus</string>
 				<key>text</key>
@@ -1846,6 +1874,8 @@ fi
 				<integer>2</integer>
 				<key>keyword</key>
 				<string>general</string>
+				<key>skipuniversalaction</key>
+				<true/>
 				<key>subtext</key>
 				<string>System Settings → General</string>
 				<key>text</key>
@@ -1884,6 +1914,8 @@ fi
 				<integer>2</integer>
 				<key>keyword</key>
 				<string>game centre</string>
+				<key>skipuniversalaction</key>
+				<true/>
 				<key>subtext</key>
 				<string>System Settings → Game Centre</string>
 				<key>text</key>
@@ -1922,6 +1954,8 @@ fi
 				<integer>2</integer>
 				<key>keyword</key>
 				<string>game controllers</string>
+				<key>skipuniversalaction</key>
+				<true/>
 				<key>subtext</key>
 				<string>System Settings → Game Controllers</string>
 				<key>text</key>
@@ -1960,6 +1994,8 @@ fi
 				<integer>2</integer>
 				<key>keyword</key>
 				<string>icloud</string>
+				<key>skipuniversalaction</key>
+				<true/>
 				<key>subtext</key>
 				<string>System Settings → Apple ID → iCloud</string>
 				<key>text</key>
@@ -1998,6 +2034,8 @@ fi
 				<integer>2</integer>
 				<key>keyword</key>
 				<string>internet accounts</string>
+				<key>skipuniversalaction</key>
+				<true/>
 				<key>subtext</key>
 				<string>System Settings → Internet Accounts</string>
 				<key>text</key>
@@ -2036,6 +2074,8 @@ fi
 				<integer>2</integer>
 				<key>keyword</key>
 				<string>keyboard</string>
+				<key>skipuniversalaction</key>
+				<true/>
 				<key>subtext</key>
 				<string>System Settings → Keyboard</string>
 				<key>text</key>
@@ -2074,6 +2114,8 @@ fi
 				<integer>2</integer>
 				<key>keyword</key>
 				<string>language||region</string>
+				<key>skipuniversalaction</key>
+				<true/>
 				<key>subtext</key>
 				<string>System Settings → General → Language &amp; Region</string>
 				<key>text</key>
@@ -2112,6 +2154,8 @@ fi
 				<integer>2</integer>
 				<key>keyword</key>
 				<string>lock screen</string>
+				<key>skipuniversalaction</key>
+				<true/>
 				<key>subtext</key>
 				<string>System Settings → Lock Screen</string>
 				<key>text</key>
@@ -2150,6 +2194,8 @@ fi
 				<integer>2</integer>
 				<key>keyword</key>
 				<string>login items</string>
+				<key>skipuniversalaction</key>
+				<true/>
 				<key>subtext</key>
 				<string>System Settings → General → Login Items</string>
 				<key>text</key>
@@ -2188,6 +2234,8 @@ fi
 				<integer>2</integer>
 				<key>keyword</key>
 				<string>mouse</string>
+				<key>skipuniversalaction</key>
+				<true/>
 				<key>subtext</key>
 				<string>System Settings → Mouse</string>
 				<key>text</key>
@@ -2226,6 +2274,8 @@ fi
 				<integer>2</integer>
 				<key>keyword</key>
 				<string>network</string>
+				<key>skipuniversalaction</key>
+				<true/>
 				<key>subtext</key>
 				<string>System Settings → Network</string>
 				<key>text</key>
@@ -2264,6 +2314,8 @@ fi
 				<integer>2</integer>
 				<key>keyword</key>
 				<string>notifications</string>
+				<key>skipuniversalaction</key>
+				<true/>
 				<key>subtext</key>
 				<string>System Settings → Notifications</string>
 				<key>text</key>
@@ -2302,6 +2354,8 @@ fi
 				<integer>2</integer>
 				<key>keyword</key>
 				<string>passwords</string>
+				<key>skipuniversalaction</key>
+				<true/>
 				<key>subtext</key>
 				<string>System Settings → Passwords</string>
 				<key>text</key>
@@ -2340,6 +2394,8 @@ fi
 				<integer>2</integer>
 				<key>keyword</key>
 				<string>printers||scanners</string>
+				<key>skipuniversalaction</key>
+				<true/>
 				<key>subtext</key>
 				<string>System Settings → Printers &amp; Scanners</string>
 				<key>text</key>
@@ -2378,6 +2434,8 @@ fi
 				<integer>2</integer>
 				<key>keyword</key>
 				<string>privacy||security</string>
+				<key>skipuniversalaction</key>
+				<true/>
 				<key>subtext</key>
 				<string>System Settings → Privacy &amp; Security</string>
 				<key>text</key>
@@ -2416,6 +2474,8 @@ fi
 				<integer>2</integer>
 				<key>keyword</key>
 				<string>profiles</string>
+				<key>skipuniversalaction</key>
+				<true/>
 				<key>subtext</key>
 				<string>System Settings → Privacy &amp; Security → Profiles</string>
 				<key>text</key>
@@ -2454,6 +2514,8 @@ fi
 				<integer>2</integer>
 				<key>keyword</key>
 				<string>screen saver</string>
+				<key>skipuniversalaction</key>
+				<true/>
 				<key>subtext</key>
 				<string>System Settings → Screen Saver</string>
 				<key>text</key>
@@ -2492,6 +2554,8 @@ fi
 				<integer>2</integer>
 				<key>keyword</key>
 				<string>screen time</string>
+				<key>skipuniversalaction</key>
+				<true/>
 				<key>subtext</key>
 				<string>System Settings → Screen Time</string>
 				<key>text</key>
@@ -2530,6 +2594,8 @@ fi
 				<integer>2</integer>
 				<key>keyword</key>
 				<string>sharing</string>
+				<key>skipuniversalaction</key>
+				<true/>
 				<key>subtext</key>
 				<string>System Settings → General → Sharing</string>
 				<key>text</key>
@@ -2568,6 +2634,8 @@ fi
 				<integer>2</integer>
 				<key>keyword</key>
 				<string>siri||spotlight</string>
+				<key>skipuniversalaction</key>
+				<true/>
 				<key>subtext</key>
 				<string>System Settings → Siri &amp; Spotlight</string>
 				<key>text</key>
@@ -2606,6 +2674,8 @@ fi
 				<integer>2</integer>
 				<key>keyword</key>
 				<string>software update</string>
+				<key>skipuniversalaction</key>
+				<true/>
 				<key>subtext</key>
 				<string>System Settings → General → Software Update</string>
 				<key>text</key>
@@ -2644,6 +2714,8 @@ fi
 				<integer>2</integer>
 				<key>keyword</key>
 				<string>sound</string>
+				<key>skipuniversalaction</key>
+				<true/>
 				<key>subtext</key>
 				<string>System Settings → Sound</string>
 				<key>text</key>
@@ -2682,6 +2754,8 @@ fi
 				<integer>2</integer>
 				<key>keyword</key>
 				<string>startup disk</string>
+				<key>skipuniversalaction</key>
+				<true/>
 				<key>subtext</key>
 				<string>System Settings → General → Startup Disk</string>
 				<key>text</key>
@@ -2720,6 +2794,8 @@ fi
 				<integer>2</integer>
 				<key>keyword</key>
 				<string>storage</string>
+				<key>skipuniversalaction</key>
+				<true/>
 				<key>subtext</key>
 				<string>System Settings → General → Storage</string>
 				<key>text</key>
@@ -2758,6 +2834,8 @@ fi
 				<integer>2</integer>
 				<key>keyword</key>
 				<string>time machine</string>
+				<key>skipuniversalaction</key>
+				<true/>
 				<key>subtext</key>
 				<string>System Settings → General → Time Machine</string>
 				<key>text</key>
@@ -2796,6 +2874,8 @@ fi
 				<integer>2</integer>
 				<key>keyword</key>
 				<string>touch id||password</string>
+				<key>skipuniversalaction</key>
+				<true/>
 				<key>subtext</key>
 				<string>System Settings → Touch ID &amp; Password</string>
 				<key>text</key>
@@ -2834,6 +2914,8 @@ fi
 				<integer>2</integer>
 				<key>keyword</key>
 				<string>trackpad</string>
+				<key>skipuniversalaction</key>
+				<true/>
 				<key>subtext</key>
 				<string>System Settings → Trackpad</string>
 				<key>text</key>
@@ -2872,6 +2954,8 @@ fi
 				<integer>2</integer>
 				<key>keyword</key>
 				<string>transfer||reset</string>
+				<key>skipuniversalaction</key>
+				<true/>
 				<key>subtext</key>
 				<string>System Settings → General → Transfer or Reset</string>
 				<key>text</key>
@@ -2910,6 +2994,8 @@ fi
 				<integer>2</integer>
 				<key>keyword</key>
 				<string>users||groups</string>
+				<key>skipuniversalaction</key>
+				<true/>
 				<key>subtext</key>
 				<string>System Settings → Users &amp; Groups</string>
 				<key>text</key>
@@ -2948,6 +3034,8 @@ fi
 				<integer>2</integer>
 				<key>keyword</key>
 				<string>vpn</string>
+				<key>skipuniversalaction</key>
+				<true/>
 				<key>subtext</key>
 				<string>System Settings → VPN</string>
 				<key>text</key>
@@ -2986,6 +3074,8 @@ fi
 				<integer>2</integer>
 				<key>keyword</key>
 				<string>wallet||apple pay</string>
+				<key>skipuniversalaction</key>
+				<true/>
 				<key>subtext</key>
 				<string>System Settings → Wallet &amp; Apple Pay</string>
 				<key>text</key>
@@ -3024,6 +3114,8 @@ fi
 				<integer>2</integer>
 				<key>keyword</key>
 				<string>wallpaper</string>
+				<key>skipuniversalaction</key>
+				<true/>
 				<key>subtext</key>
 				<string>System Settings → Wallpaper</string>
 				<key>text</key>
@@ -3062,6 +3154,8 @@ fi
 				<integer>2</integer>
 				<key>keyword</key>
 				<string>wifi</string>
+				<key>skipuniversalaction</key>
+				<true/>
 				<key>subtext</key>
 				<string>System Settings → Wi-Fi</string>
 				<key>text</key>
