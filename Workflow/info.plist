@@ -3992,7 +3992,7 @@ Open System Settings panes via the workflow’s keywords: `about`, `accessibilit
 	<key>userconfigurationconfig</key>
 	<array/>
 	<key>version</key>
-	<string>2024.2</string>
+	<string>2024.3</string>
 	<key>webaddress</key>
 	<string>https://github.com/alfredapp/system-settings-workflow/</string>
 </dict>
