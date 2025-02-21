@@ -1899,13 +1899,13 @@ fi
 				<key>argumenttype</key>
 				<integer>2</integer>
 				<key>keyword</key>
-				<string>displays</string>
+				<string>displays||monitors</string>
 				<key>skipuniversalaction</key>
 				<true/>
 				<key>subtext</key>
 				<string>System Settings → Displays</string>
 				<key>text</key>
-				<string>Displays</string>
+				<string>Displays &amp; Monitors</string>
 				<key>withspace</key>
 				<false/>
 			</dict>
@@ -3257,7 +3257,7 @@ fi
 	<key>readme</key>
 	<string>## Usage
 
-Open System Settings panes via the workflow’s keywords: `about`, `accessibility`, `airdrop` (and `handoff`), `appearance`, `applecare` (and `warranty`), `apple account`, `apple intelligence` (and `siri`) `autofill` (and `passwords`), `battery`, `bluetooth`, `control centre`, `date` (and `time`), `desktop` (and `dock`), `device management`, `displays`, `extensions`, `family`, `focus`, `general`, `game centre`, `game controllers`, `icloud`, `internet accounts`, `keyboard`, `language` (and `region`), `lock screen`, `login items` (and `extensions`), `mouse`, `network`, `notifications`, `printers` (and `scanners`), `privacy` (and `security`), `screen saver`, `screen time`, `sharing`, `software update`, `sound`, `spotlight`, `startup disk`, `storage`, `time machine`, `touch id` (and `password`), `trackpad`, `transfer` (and `reset`), `users` (and `groups`), `vpn`, `wallet` (and `apple pay`), `wallpaper`, `wifi`.
+Open System Settings panes via the workflow’s keywords: `about`, `accessibility`, `airdrop` (and `handoff`), `appearance`, `applecare` (and `warranty`), `apple account`, `apple intelligence` (and `siri`) `autofill` (and `passwords`), `battery`, `bluetooth`, `control centre`, `date` (and `time`), `desktop` (and `dock`), `device management`, `displays` (and `monitors`), `extensions`, `family`, `focus`, `general`, `game centre`, `game controllers`, `icloud`, `internet accounts`, `keyboard`, `language` (and `region`), `lock screen`, `login items` (and `extensions`), `mouse`, `network`, `notifications`, `printers` (and `scanners`), `privacy` (and `security`), `screen saver`, `screen time`, `sharing`, `software update`, `sound`, `spotlight`, `startup disk`, `storage`, `time machine`, `touch id` (and `password`), `trackpad`, `transfer` (and `reset`), `users` (and `groups`), `vpn`, `wallet` (and `apple pay`), `wallpaper`, `wifi`.
 
 ![Alfred search for app](images/about/app.png)
 
