@@ -1400,7 +1400,7 @@ fi
 			<key>config</key>
 			<dict>
 				<key>argument</key>
-				<string>x-apple.systempreferences:com.apple.preference.universalaccess</string>
+				<string>x-apple.systempreferences:com.apple.Accessibility-Settings.extension</string>
 				<key>passthroughargument</key>
 				<false/>
 				<key>variables</key>
@@ -1560,7 +1560,7 @@ fi
 			<key>config</key>
 			<dict>
 				<key>argument</key>
-				<string>x-apple.systempreferences:com.apple.preferences.AppleIDPrefPane</string>
+				<string>x-apple.systempreferences:com.apple.systempreferences.AppleIDSettings*AppleIDSettings</string>
 				<key>passthroughargument</key>
 				<false/>
 				<key>variables</key>
@@ -1680,7 +1680,7 @@ fi
 			<key>config</key>
 			<dict>
 				<key>argument</key>
-				<string>x-apple.systempreferences:com.apple.preference.battery</string>
+				<string>x-apple.systempreferences:com.apple.Battery-Settings.extension*BatteryPreferences</string>
 				<key>passthroughargument</key>
 				<false/>
 				<key>variables</key>
@@ -1800,7 +1800,7 @@ fi
 			<key>config</key>
 			<dict>
 				<key>argument</key>
-				<string>x-apple.systempreferences:com.apple.preference.datetime</string>
+				<string>x-apple.systempreferences:com.apple.Date-Time-Settings.extension</string>
 				<key>passthroughargument</key>
 				<false/>
 				<key>variables</key>
@@ -1880,7 +1880,7 @@ fi
 			<key>config</key>
 			<dict>
 				<key>argument</key>
-				<string>x-apple.systempreferences:com.apple.preferences.configurationprofiles</string>
+				<string>x-apple.systempreferences:com.apple.Profiles-Settings.extension</string>
 				<key>passthroughargument</key>
 				<false/>
 				<key>variables</key>
@@ -1960,7 +1960,7 @@ fi
 			<key>config</key>
 			<dict>
 				<key>argument</key>
-				<string>x-apple.systempreferences:com.apple.preferences.FamilySharingPrefPane</string>
+				<string>x-apple.systempreferences:com.apple.Family-Settings.extension*Family</string>
 				<key>passthroughargument</key>
 				<false/>
 				<key>variables</key>
@@ -2480,7 +2480,7 @@ fi
 			<key>config</key>
 			<dict>
 				<key>argument</key>
-				<string>x-apple.systempreferences:com.apple.preference.notifications</string>
+				<string>x-apple.systempreferences:com.apple.Notifications-Settings.extension</string>
 				<key>passthroughargument</key>
 				<false/>
 				<key>variables</key>
@@ -2560,7 +2560,7 @@ fi
 			<key>config</key>
 			<dict>
 				<key>argument</key>
-				<string>x-apple.systempreferences:com.apple.preference.security</string>
+				<string>x-apple.systempreferences:com.apple.settings.PrivacySecurity.extension</string>
 				<key>passthroughargument</key>
 				<false/>
 				<key>variables</key>
@@ -2640,7 +2640,7 @@ fi
 			<key>config</key>
 			<dict>
 				<key>argument</key>
-				<string>x-apple.systempreferences:com.apple.preference.screentime</string>
+				<string>x-apple.systempreferences:com.apple.Screen-Time-Settings.extension</string>
 				<key>passthroughargument</key>
 				<false/>
 				<key>variables</key>
@@ -2680,7 +2680,7 @@ fi
 			<key>config</key>
 			<dict>
 				<key>argument</key>
-				<string>x-apple.systempreferences:com.apple.preferences.sharing</string>
+				<string>x-apple.systempreferences:com.apple.Sharing-Settings.extension</string>
 				<key>passthroughargument</key>
 				<false/>
 				<key>variables</key>
@@ -2760,7 +2760,7 @@ fi
 			<key>config</key>
 			<dict>
 				<key>argument</key>
-				<string>x-apple.systempreferences:com.apple.preferences.softwareupdate</string>
+				<string>x-apple.systempreferences:com.apple.Software-Update-Settings.extension</string>
 				<key>passthroughargument</key>
 				<false/>
 				<key>variables</key>
@@ -2960,7 +2960,7 @@ fi
 			<key>config</key>
 			<dict>
 				<key>argument</key>
-				<string>x-apple.systempreferences:com.apple.preferences.password</string>
+				<string>x-apple.systempreferences:com.apple.Touch-ID-Settings.extension*TouchIDPasswordPrefs</string>
 				<key>passthroughargument</key>
 				<false/>
 				<key>variables</key>
